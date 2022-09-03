@@ -1,2 +1,2 @@
 # Menu-restaurante-carrito-PHP-MySQL
-Menu de restaurante , con carrito de compras con php y Mysql y base de datos relacional.
+Menu de restaurante , con carrito de compras en PHP, Bootstrap5 y Mysql con base de datos relacional.
